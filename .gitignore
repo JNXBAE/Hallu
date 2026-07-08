@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Database
+*.sqlite
+*.db
+
+# ChromaDB
+chroma_db/
+backend/chroma_db/
+backend/data/chroma/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
